@@ -6,3 +6,7 @@ Description:
 3)	Print out a decision tree
 4)	Read a file of test examples and report the accuracy of the tree on those examples
 5)	Quit the program
+## To Compile
+in Anaconda install
+- python-graphviz
+- pydot
