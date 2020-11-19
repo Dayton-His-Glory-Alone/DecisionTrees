@@ -10,5 +10,5 @@ in Anaconda install
 - python-graphviz 
 `conda install -c anaconda python-graphviz`
 - pydot
-`conda install -c anaconda pydot`
-
+`conda install -c anaconda pydot`, 
+`conda install -c conda-forge pydotplus`
